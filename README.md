@@ -1,1 +1,2 @@
 # Password_Generator
+For this project we had to make a password generator, it was required to be at least 8 characters and no more than 128 characters. The user is the asked to confirm whether or not to include lowercase, uppercase, numeric, and/or special characters. When all the prompts are answered then a password is generated that matches the selected criteria. This was another challenging task for me but I learned a lot with it and will need to work on IF statements a lot more to get comfortable with them.
